@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 git clone https://github.com/nataliebeylin/nataliebeylin.github.io
 cd nataliebeylin.github.io
 ~$echo "Hello World" > index.html
+git add --all
+~$git commit -m "Initial commit"
+~$git push -u origin main

@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 git clone https://github.com/nataliebeylin/nataliebeylin.github.io
+cd nataliebeylin.github.io
+~$echo "Hello World" > index.html
